@@ -25,11 +25,11 @@ Add me to your group and play music freely!**
                         "Creator", url="https://t.me/TheShashank"
                     ),
                     InlineKeyboardButton(
-                        "Creator ki janemon", url="https://t.me/Infinity_BOTs"
+                        "Creator ki janemon", url="https://t.me/cutie1145"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/The_ShashankMusicBot?startgroup=true"
                     )]
             ]
         ),
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Infinity_BOTs")
+                        "Creator", url="https://t.me/TheShashank")
                 ]
             ]
         )
