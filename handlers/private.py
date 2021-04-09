@@ -11,7 +11,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎵
 
-I can play music in your group's voice call. Developed by [Jason](https://t.me/ImJanindu).
+I can play music in your group's voice call. Developed by [The Shashank](https://t.me/theshashank).
 
 Add me to your group and play music freely!**
         """,
@@ -19,13 +19,13 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url="https://github.com/ImJanindu/GroupMusicBot")
+                        "🛠 Source Code 🛠", url="https://t.me/joinchat/mcW-kqvhleg0NGY1")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/InfinityBOTs_Support"
+                        "Creator", url="https://t.me/TheShashank"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Infinity_BOTs"
+                        "Creator ki janemon", url="https://t.me/Infinity_BOTs"
                     )
                 ],[ 
                     InlineKeyboardButton(
